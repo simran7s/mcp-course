@@ -13,6 +13,7 @@
   "packageManager": "pnpm@10.16.1",
   "dependencies": {
     "@modelcontextprotocol/sdk": "1.16.0",
+    "openmeteo": "^1.2.0",
     "zod": "^3.25.76"
   }
 }
